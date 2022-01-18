@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="pictureBox9.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="HorizontalLineTop.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa
@@ -136,7 +136,7 @@
         p/2LP5jDEjgsgcMSOCyBwxI4LIHDEjgsgcMSOKzTHo+/xu4/GenGYxQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox8.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="vLine5.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa
@@ -154,7 +154,7 @@
         p/2LP5jDEjgsgcMSOCyBwxI4LIHDEjgsgcMSOKzTHo+/xu4/GenGYxQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox7.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="vLine1.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa
@@ -172,7 +172,7 @@
         p/2LP5jDEjgsgcMSOCyBwxI4LIHDEjgsgcMSOKzTHo+/xu4/GenGYxQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox4.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="vLine4.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa
@@ -190,7 +190,7 @@
         p/2LP5jDEjgsgcMSOCyBwxI4LIHDEjgsgcMSOKzTHo+/xu4/GenGYxQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox2.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="vLine3.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa
@@ -208,7 +208,7 @@
         p/2LP5jDEjgsgcMSOCyBwxI4LIHDEjgsgcMSOKzTHo+/xu4/GenGYxQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox1.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="vLine2.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa
@@ -226,7 +226,7 @@
         p/2LP5jDEjgsgcMSOCyBwxI4LIHDEjgsgcMSOKzTHo+/xu4/GenGYxQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="Line.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="HorizontalLineLower.InitialImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGQAAABmCAIAAACySKMIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
         dAAAEnQB3mYfeAAAAuNJREFUeF7t0Fty20AMRFEvJJ/Z/86yBiVVvkwJAEWxyXnJ1afwYYszA6C/Hnaa

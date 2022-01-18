@@ -73,10 +73,68 @@ namespace FridayNightFruitSalade.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap DownArrowNotPressed {
+            get {
+                object obj = ResourceManager.GetObject("DownArrowNotPressed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Ellare {
+            get {
+                return ResourceManager.GetStream("Ellare", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LeftArrow {
             get {
                 object obj = ResourceManager.GetObject("LeftArrow", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LeftArrowNotPressed {
+            get {
+                object obj = ResourceManager.GetObject("LeftArrowNotPressed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to //Pattern
+        ///LeftArrowAssemble(3150);
+        ///UpArrowAssemble(3249);
+        ///DownArrowAssemble(3339);
+        ///RightArrowAssemble(3447);
+        ///DownArrowAssemble(3519);
+        ///UpArrowAssemble(3600);
+        ///LeftArrowAssemble(3663);
+        ///UpArrowAssemble(3753);
+        ///DownArrowAssemble(3816);
+        ///RightArrowAssemble(3888);
+        ///DownArrowAssemble(3969);
+        ///UpArrowAssemble(4032);
+        ///DownArrowAssemble(4113);
+        ///RightArrowAssemble(5112);
+        ///DownArrowAssemble(5166);
+        ///UpArrowAssemble(5355);
+        ///LeftArrowAssemble(5409);
+        ///UpArrowAssemble(5508);
+        ///DownArrowAssemble(5661);
+        ///RightArrowAssemb [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Pattern {
+            get {
+                return ResourceManager.GetString("Pattern", resourceCulture);
             }
         }
         
@@ -93,9 +151,29 @@ namespace FridayNightFruitSalade.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap RightArrowNotPressed {
+            get {
+                object obj = ResourceManager.GetObject("RightArrowNotPressed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap UpArrow {
             get {
                 object obj = ResourceManager.GetObject("UpArrow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UpArrowNotPressed {
+            get {
+                object obj = ResourceManager.GetObject("UpArrowNotPressed", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
